@@ -2,7 +2,7 @@
 
 A fully functional **24-hour digital clock** designed and simulated in **National Instruments Multisim 14**. The project demonstrates the practical application of sequential and combinational logic using TTL ICs.
 
-![Digital Clock]()  
+![Digital Clock](1.PNG)  
 
 
 ## ✨ Features
@@ -60,9 +60,6 @@ Digital Clock/
 3. Run the simulation
 4. Use the **1 Hz clock** for real-time behavior or increase frequency for fast testing
 5. Press manual buttons to set time
-
-## 📸 Screenshots
-
 
 
 ## 📚 Learning Outcomes
